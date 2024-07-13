@@ -6,7 +6,8 @@
 ### 🏢 Currently working at: [Linkedin](https://www.linkedin.com/in/alessandro-villa-56b2a411a/)
 
 ---
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitalevilla\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff) -->
+<!-- ![](https://github-readme-stats.vercel.app/api?username=gitalevilla&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
+
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
